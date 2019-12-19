@@ -26,6 +26,7 @@ function App() {
         </a>
         !
       </h2>
+      <p> Here's my little change</p>
       <p>
         <a
           href="https://github.com/zeit/now-examples/tree/master/create-react-app-functions"
@@ -50,7 +51,11 @@ function App() {
       <br />
       <h2>The date according to Go is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
+
+      <p>Dingo was here 🐕</p>
+
       <p>Hard to find where to leave my mark XD</p>
+
     </main>
   );
 }
